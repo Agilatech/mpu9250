@@ -1,0 +1,15 @@
+{
+  "name": "@agilatech/mpu9250",
+  "version": "0.8.0",
+  "description": "Driver for the MPU9250",
+  "main": "mpu9250.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Agilatech/mpu9250.git"
+  },
+  "author": "Scott Erholm <scott@agilatech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mpu9250": "*"
+  }
+}
